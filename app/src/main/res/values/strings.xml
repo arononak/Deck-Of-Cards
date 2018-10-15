@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeckOfCard</string>
+    <string name="action_random">Losuj</string>
+    <string name="text_info">Tap to get cards</string>
+</resources>
